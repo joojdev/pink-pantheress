@@ -1,3 +1,19 @@
 .padding {
   padding: 0 20%;
 }
+
+.texto {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.image {
+  height: 25vw;
+}
+
+.audios {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
